@@ -1,0 +1,21 @@
+{
+  "name": "Sri Bhaskar Nursery",
+  "short_name": "Bhaskar Nursery",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "description": "Kadiyam's Trusted Wholesale Plant Nursery",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
