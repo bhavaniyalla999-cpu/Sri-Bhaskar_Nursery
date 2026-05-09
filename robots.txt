@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sribhaskarnursery.netlify.app/sitemap.xml
+Sitemap: https://sribhaskarnursery.vercel.app/sitemap.xml
