@@ -1,0 +1,20 @@
+{
+  "name": "sri-bhaskar-nursery",
+  "version": "1.0.0",
+  "description": "Sri Bhaskar Nursery - Premium Outdoor Plants & Trees",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "nursery",
+    "plants",
+    "trees",
+    "landscaping"
+  ],
+  "author": "Sri Bhaskar Nursery",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
